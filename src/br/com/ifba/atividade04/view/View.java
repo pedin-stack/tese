@@ -93,7 +93,7 @@ public class View extends javax.swing.JFrame {
         }
         
     }//GEN-LAST:event_btnPalpiteActionPerformed
-
+//ver o que houve para todos os commits sumirem
     /** 
      * @param args the command line arguments
      */
